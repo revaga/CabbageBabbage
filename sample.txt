@@ -1,0 +1,12 @@
+var blue = {math} 2
+scribblebibble(blue)
+~this is a comment~
+
+loop(10): scribblebibble(isine)
+
+var bbb = stringbean
+var bjj = {math} 4+3
+var sie = 3
+{math} 3+7
+
+
