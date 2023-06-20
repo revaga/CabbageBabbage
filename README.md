@@ -1,4 +1,4 @@
-# CabbageBabbage
+# CabbageBabbage 🥬
 A simple compiler written using Java
 
 # Strings
